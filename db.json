@@ -1,0 +1,34 @@
+{
+    "post":[
+        {
+            "id":0,
+            "name": "Sky tg24",
+            "content": "Per l’intellettuale e linguista Noam Chomsky, gli Stati Uniti sono alle prime fasi di una guerra civile #AmericaContro di @FedLeoni 9 gennaio ogni seconda domenica del mese alle 19.30",
+            "img": "https://picsum.photos/200/300"
+        },
+        {
+            "id":1,
+            "name": "Dario",
+            "content": "Oggi tutto bene",
+            "img": ""
+        },
+        {
+            "id":2,
+            "name": "Corriere della Sera",
+            "content": "Casini positivo (per la seconda volta): «Leggero mal di gola e normale influenza»",
+            "img": "https://picsum.photos/200/300"
+        },
+        {
+            "id":3,
+            "name": "Burie",
+            "content": "Mybe I'll drop my first #NFTs... What do You thinking about?? You like this project?",
+            "img": "https://pbs.twimg.com/media/FIvCHSCXoAAfSnG?format=jpg&name=large"
+        },
+        {
+            "id":4,
+            "name": "Repubblica",
+            "content": "Il pressing degli esperti sul governo: Basta bollettino quotidiano dei contagi, è ora di cambiare",
+            "img": "https://picsum.photos/200/300"
+        }
+    ]
+}
