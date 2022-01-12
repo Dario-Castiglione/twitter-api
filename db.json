@@ -6,7 +6,7 @@
             "content": "Per l’intellettuale e linguista Noam Chomsky, gli Stati Uniti sono alle prime fasi di una guerra civile #AmericaContro di @FedLeoni 9 gennaio ogni seconda domenica del mese alle 19.30",
             "img": "https://picsum.photos/200/300",
             "user_id":0,
-            "user_img":"https://picsum.photos/200/300"
+            "user_img":"https://i.pravatar.cc/150?img=1"
         },
         {
             "id":1,
@@ -14,7 +14,7 @@
             "content": "Oggi tutto bene",
             "img": "",
             "user_id":1,
-            "user_img":"https://picsum.photos/200/300"
+            "user_img":"https://i.pravatar.cc/150?img=2"
         },
         {
             "id":2,
@@ -22,7 +22,7 @@
             "content": "Casini positivo (per la seconda volta): «Leggero mal di gola e normale influenza»",
             "img": "https://picsum.photos/200/300",
             "user_id":2,
-            "user_img":"https://picsum.photos/200/300"
+            "user_img":"https://i.pravatar.cc/150?img=3"
         },
         {
             "id":3,
@@ -30,14 +30,14 @@
             "content": "Mybe I'll drop my first #NFTs... What do You thinking about?? You like this project?",
             "img": "https://pbs.twimg.com/media/FIvCHSCXoAAfSnG?format=jpg&name=large",
             "user_id":3,
-            "user_img":"https://picsum.photos/200/300"
+            "user_img":"https://i.pravatar.cc/150?img=4"
         },
         {
             "id":4,
             "name": "Repubblica",
             "content": "Il pressing degli esperti sul governo: Basta bollettino quotidiano dei contagi, è ora di cambiare",
             "user_id":4,
-            "user_img":"https://picsum.photos/200/300"
+            "user_img":"https://i.pravatar.cc/150?img=5"
            
         }
     ]
