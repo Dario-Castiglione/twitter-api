@@ -4,7 +4,7 @@
             "id":0,
             "name": "Sky tg24",
             "content": "Per l’intellettuale e linguista Noam Chomsky, gli Stati Uniti sono alle prime fasi di una guerra civile #AmericaContro di @FedLeoni 9 gennaio ogni seconda domenica del mese alle 19.30",
-            "img": "https://picsum.photos/200/300",
+            "img": "https://picsum.photos/200/300?random=1",
             "user_id":0,
             "user_img":"https://i.pravatar.cc/150?img=1"
         },
@@ -12,7 +12,6 @@
             "id":1,
             "name": "Dario",
             "content": "Oggi tutto bene",
-            "img": "",
             "user_id":1,
             "user_img":"https://i.pravatar.cc/150?img=2"
         },
@@ -20,7 +19,7 @@
             "id":2,
             "name": "Corriere della Sera",
             "content": "Casini positivo (per la seconda volta): «Leggero mal di gola e normale influenza»",
-            "img": "https://picsum.photos/200/300",
+            "img": "https://picsum.photos/200/300?random=3",
             "user_id":2,
             "user_img":"https://i.pravatar.cc/150?img=3"
         },
@@ -30,7 +29,7 @@
             "content": "Mybe I'll drop my first #NFTs... What do You thinking about?? You like this project?",
             "img": "https://pbs.twimg.com/media/FIvCHSCXoAAfSnG?format=jpg&name=large",
             "user_id":3,
-            "user_img":"https://i.pravatar.cc/150?img=4"
+            "user_img":"https://pbs.twimg.com/profile_images/1480487597080297472/3vmg8Xa3_400x400.jpg"
         },
         {
             "id":4,
