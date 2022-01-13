@@ -63,5 +63,33 @@
             "user_img":"https://pbs.twimg.com/profile_images/1480487597080297472/3vmg8Xa3_400x400.jpg",
             "date": "2022-01-11T08:20:35.433Z"
         }
+    ],
+    "trends":[
+        {
+            "argument": "Trending in Italy",
+            "content":"Maneskin",
+            "tweetCount": 545000
+        },
+        {
+            "argument": "Trending in Italy",
+            "content":"Dario Castiglione",
+            "tweetCount": 9584565
+        },
+        {
+            "argument": "Turkish series · Trending",
+            "content":"#AşkMantıkİntikam",
+            "tweetCount": 3354
+        },
+        {
+            "argument": "Trending in Italy",
+            "content":"#Aisha",
+            "tweetCount": 8457
+        },
+        {
+            "argument": "Entrainment - Treading",
+            "content":"##DemetÖzdemir",
+            "tweetCount": 3392
+        }
+
     ]
 }
