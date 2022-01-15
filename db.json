@@ -104,5 +104,28 @@
             "user_img":"https://pbs.twimg.com/profile_images/1394507765956190209/KzTZ_r8t_400x400.jpg"
         }
         
+    ],
+    "happening":[
+        {
+            "title": "Fans celebrate Jun. K's birthday",
+            "subtitle":"Entertainment",
+            "img":"https://picsum.photos/200?random=1"
+        },
+        {
+            "title": "Africa Cup of Nations 2021",
+            "subtitle":"Africa Cup of Nations",
+            "img":"https://picsum.photos/200?random=2"
+        },
+        {
+            "title": "It's Vikram Prabhu's birthday",
+            "subtitle":"Entertainment",
+            "img":"https://picsum.photos/200?random=3"
+        },
+        {
+            "title": "Cameroon reach AFCON last 16, Burkina Faso land win",
+            "subtitle":"Soccer",
+            "img":"https://picsum.photos/200?random=4"
+        }
+        
     ]
 }
